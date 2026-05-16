@@ -62,6 +62,7 @@ Follow these steps to install and apply the **Nebula** theme to Zen Browser:
 3. ⚙️ **Enable Transparent Tabs**
    - Go to `about:config` in Zen.
    - Search for `browser.tabs.allow_transparent_browser`.
+   - For linux users: search for `zen.widget.linux.transparency`
    - If visible, set it to `true`.
 
 4. 🖼️ **Install Wallpapers (Optional)**
